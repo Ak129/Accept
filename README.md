@@ -50,4 +50,4 @@
 ### 💫 Commands
 - `/users` - Check Bot Members/Subscribers
 - `/fcast` - Broadcast Message On your All Members/Subscribers With Tag
-- '/bcast' - Broadcast Message On your All Members/Subscribers Without Tag
+- `/bcast` - Broadcast Message On your All Members/Subscribers Without Tag
