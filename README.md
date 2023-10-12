@@ -46,3 +46,8 @@
  - [Dan](https://github.com/delivrance) for pyrogram
  - [Me](https://github.com/KWICBOTS) for Nothing 😅
  - [Repo owner](https://github.com/ImDenuwan) complete credits of Repo
+
+### 💫 Commands
+- `/users` - Check Bot Members/Subscribers
+- `/fcast` - Broadcast Message On your All Members/Subscribers With Tag
+- '/bcast' - Broadcast Message On your All Members/Subscribers Without Tag
